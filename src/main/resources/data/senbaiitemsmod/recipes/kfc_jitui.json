@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:chicken"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    }
+  },
+  "pattern": [
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "senbaiitemsmod:kfc_jitui",
+    "count": 3
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "music_gxfc": {
+    "subtitle": "subtitles.senbaiitemsmod:music_gxfc",
+    "sounds": [
+      "senbaiitemsmod:music_gxfc"
+    ]
+  },
+  "music_ltx": {
+    "subtitle": "subtitles.senbaiitemsmod:music_ltx",
+    "sounds": [
+      "senbaiitemsmod:music_ltx"
+    ]
+  },
+  "music_cmsts": {
+    "subtitle": "subtitles.senbaiitemsmod:music_cmsts",
+    "sounds": [
+      "senbaiitemsmod:music_cmsts"
+    ]
+  },
+  "music_backhomo": {
+    "subtitle": "subtitles.senbaiitemsmod:music_backhomo",
+    "sounds": [
+      "senbaiitemsmod:music_backhomo"
+    ]
+  },
+  "music_ylimax": {
+    "subtitle": "subtitles.senbaiitemsmod:music_ylimax",
+    "sounds": [
+      "senbaiitemsmod:music_ylimax"
+    ]
+  }
+}

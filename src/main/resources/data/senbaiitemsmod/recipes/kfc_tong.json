@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "BPB"
+  ],
+  "result": {
+    "item": "senbaiitemsmod:kfc_tong",
+    "count": 3
+  }
+}
